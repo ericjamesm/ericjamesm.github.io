@@ -1,0 +1,250 @@
+@charset "UTF-8";
+
+.menu_jpg {
+  background-image: url(chipsmenu-assets/menu.jpg);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1200px;
+  height: 483px;
+  z-index: 21;
+}
+.nav_png {
+  background-image: url("chipsmenu-assets/nav.png");
+  position: fixed;
+  left: -3px;
+  top: 14px;
+  width: 1208px;
+  height: 125px;
+  z-index: 922;
+}
+
+.burgerbox_png {
+  /*background-image: url("chipsmenu-assets/burgerbox.png");*/
+  position: absolute;
+  left: 438px;
+  top: 483px;
+  width: 762px;
+  height: 426px;
+  z-index: 53;
+}
+
+.frybox_jpg {
+  background-image: url("chipsmenu-assets/frybox.jpg");
+  position: absolute;
+  left: 438px;
+  top: 909px;
+  width: 762px;
+  height: 428px;
+  z-index: 79;
+}
+
+.burger1_jpg {
+  background-image: url("chipsmenu-assets/burger1.jpg");
+  position: absolute;
+  left: 42px;
+  top: 573px;
+  width: 97px;
+  height: 125px;
+  z-index: 36;
+}
+
+
+.burger2_jpg {
+  background-image: url("chipsmenu-assets/burger2.jpg");
+  position: absolute;
+  left: 165px;
+  top: 573px;
+  width: 97px;
+  height: 125px;
+  z-index: 38;
+}
+
+.burger3_jpg {
+  background-image: url("chipsmenu-assets/burger3.jpg");
+  position: absolute;
+  left: 288px;
+  top: 573px;
+  width: 97px;
+  height: 125px;
+  z-index: 40;
+}
+
+.burger4_jpg {
+  background-image: url("chipsmenu-assets/burger4.jpg");
+  position: absolute;
+  left: 42px;
+  top: 722px;
+  width: 97px;
+  height: 125px;
+  z-index: 42;
+}
+
+.burger5_jpg {
+  background-image: url("chipsmenu-assets/burger5.jpg");
+  position: absolute;
+  left: 165px;
+  top: 722px;
+  width: 97px;
+  height: 125px;
+  z-index: 45;
+}
+
+.burger6_jpg {
+  background-image: url("chipsmenu-assets/burger6.jpg");
+  position: absolute;
+  left: 287px;
+  top: 720px;
+  width: 97px;
+  height: 125px;
+  z-index: 78;
+}
+
+.info{
+	padding-top: 485px;
+	margin-right:  970px;
+	margin-left: 130px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	
+}
+
+.info2{
+	position: absolute;
+	top: 930px;
+	left: 165px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+.navigation{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color:#FFFFFF;
+	padding: 26px;
+	padding-top: 31px;
+	padding-left: 775px;
+	word-spacing: 25px;
+	font-size: 16pt;
+	
+}
+
+a{
+	color: #FFFFFF;
+	text-decoration: none;
+	
+}
+a:hover{
+	color: #000000;
+}
+
+.plus_jpg {
+  background-image: url("chipsmenu-assets/plus.jpg");
+  position: absolute;
+  left: 198px;
+  top: 892px;
+  width: 31px;
+  height: 31px;
+  z-index: 43;
+}
+
+.footer_jpg {
+  background-image: url("chipsmenu-assets/footer.jpg");
+  position: absolute;
+  left: -3px;
+  top: 1337px;
+  width: 1203px;
+  height: 165px;
+  z-index: 82;
+}
+
+.fry1{
+  background-image: url(chipsmenu-assets/fry1.jpg);
+  position: absolute;
+  left: 42px;
+  top: 1008px;
+  width: 97px;
+  height: 125px;
+  z-index: 56;
+}
+
+.fry2 {
+  background-image: url(chipsmenu-assets/fry2.jpg);
+  position: absolute;
+  left: 165px;
+  top: 1008px;
+  width: 97px;
+  height: 125px;
+  z-index: 66;
+}
+.fry3 {
+  background-image: url(chipsmenu-assets/fry3.jpg);
+  position: absolute;
+  left: 288px;
+  top: 1008px;
+  width: 97px;
+  height: 125px;
+  z-index: 68;
+}
+
+.fry4 {
+  background-image: url(chipsmenu-assets/fry4.jpg);
+  position: absolute;
+  left: 42px;
+  top: 1157px;
+  width: 97px;
+  height: 125px;
+  z-index: 70;
+}
+
+.fry5 {
+  position: absolute;
+  left: 165px;
+  top: 1157px;
+  width: 97px;
+  height: 125px;
+  z-index: 72;
+}
+
+.fry6 {
+  position: absolute;
+  left: 289px;
+  top: 1156px;
+  width: 97px;
+  height: 125px;
+  z-index: 47;
+}
+
+.twitter_png {
+  background-image: url("chipsmenu-assets/twitter.png");
+  opacity: 1;
+  position: absolute;
+  left: 651px;
+  top: 1388px;
+  width: 60px;
+  height: 60px;
+  z-index: 99;
+}
+.fb_png {
+  background-image: url("chipsmenu-assets/fb.png");
+  opacity: 1;
+  position: absolute;
+  left: 490px;
+  top: 1388px;
+  width: 60px;
+  height: 60px;
+  z-index: 99;
+}
+
+.insta_png {
+  background-image: url("chipsmenu-assets/insta.png");
+  opacity: 1;
+  position: absolute;
+  left: 571px;
+  top: 1387px;
+  width: 61px;
+  height: 61px;
+  z-index: 99;
+}
+
+
+
+
+

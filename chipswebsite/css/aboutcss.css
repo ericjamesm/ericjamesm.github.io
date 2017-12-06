@@ -1,0 +1,211 @@
+@charset "UTF-8";
+.center{
+	max-width: 1200px;
+    margin: auto;
+	
+}
+.color{
+	background-color: blue;
+	z-index: 99999;
+}
+.hours{
+	position: absolute;
+	height: 300px;
+	width: 170px;
+	z-index: 9999;
+	top: 750px;
+	left: 30px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif'	
+}
+
+.phone{
+	position: absolute;
+	height: 300px;
+	width: 160px;
+	z-index: 9999;
+	top: 750px;
+	left: 240px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, 'Gill Sans', 'Gill Sans MT', 'Myriad Pro', 'DejaVu Sans Condensed', Helvetica, Arial, 'sans-serif'	
+}
+
+.infobox{
+	
+	height: 300px;
+	width: 370px;
+	z-index: 99;
+	position: absolute;
+	top: 540px;
+	left: 30px;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+.about_jpg {
+  background-image: url(../chips_about_us-assets/about.jpg);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  width: 1201px;
+  height: 484px;
+  z-index: 22;
+}
+
+.imgcar1_jpg {
+  background-image: url(../chips_about_us-assets/imgcar1.jpg);
+  position: absolute;
+  left: 437px;
+  top: 484px;
+  width: 764px;
+  height: 603px;
+  z-index: 49;
+}
+
+.navbar_png {
+  background-image: url(../location-assets/nav.png);
+  position: fixed;
+  left: 0px;
+  top: 16px;
+  width: 1200px;
+  height: 124px;
+  z-index: 999;
+}
+
+.footer_png {
+  background-image: url(../chips_about_us-assets/footer.png);
+  position: absolute;
+  left: 0px;
+  top: 1087px;
+  width: 1200px;
+  height: 165px;
+  z-index: 21;
+}
+
+.logo_png {
+  background-image: url(../chips_about_us-assets/logo.png);
+  opacity: 1;
+  position: absolute;
+  left: 1005px;
+  top: 1107px;
+  width: 151px;
+  height: 114px;
+  z-index: 24;
+}
+
+.twit_png {
+  background-image: url(../chips_about_us-assets/twit.png);
+  opacity: 1;
+  position: absolute;
+  left: 653px;
+  top: 1136px;
+  width: 60px;
+  height: 60px;
+  z-index: 27;
+}
+
+.fb_png {
+  background-image: url(../chips_about_us-assets/fb.png);
+  opacity: 1;
+  position: absolute;
+  left: 492px;
+  top: 1136px;
+  width: 60px;
+  height: 60px;
+  z-index: 28;
+}
+
+.insta_png {
+  background-image: url(../chips_about_us-assets/insta.png);
+  opacity: 1;
+  position: absolute;
+  left: 573px;
+  top: 1135px;
+  width: 61px;
+  height: 61px;
+  z-index: 29;
+}
+
+.arrow1_png {
+  background-image: url(../chips_about_us-assets/arrow1.png);
+  position: absolute;
+  left: 478px;
+  top: 770px;
+  width: 41px;
+  height: 57px;
+  z-index: 52;
+}
+
+.arrow2_png {
+  background-image: url(../chips_about_us-assets/arrow2.png);
+  position: absolute;
+  left: 1142px;
+  top: 770px;
+  width: 41px;
+  height: 57px;
+  z-index: 53;
+}
+
+.cardot1 {
+  border-radius: 50%;
+  background-color: rgb(250, 14, 14);
+  box-shadow: 0px 3px 7px 0px rgba(0, 0, 0, 0.14);
+  position: absolute;
+  left: 821px;
+  top: 1047px;
+  width: 18px;
+  height: 18px;
+  z-index: 51;
+}
+
+.cardot2 {
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 3px 7px 0px rgba(0, 0, 0, 0.14);
+  position: absolute;
+  left: 851px;
+  top: 1046px;
+  width: 18px;
+  height: 18px;
+  z-index: 54;
+}
+.cardot3 {
+  border-radius: 50%;
+  background-color: rgb(255, 255, 255);
+  box-shadow: 0px 3px 7px 0px rgba(0, 0, 0, 0.14);
+  position: absolute;
+  left: 883px;
+  top: 1046px;
+  width: 18px;
+  height: 18px;
+  z-index: 55;
+}
+
+.navigation{
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color:#FFFFFF;
+	padding: 26px;
+	padding-top: 31px;
+	padding-left: 775px;
+	word-spacing: 25px;
+	font-size: 16pt;
+	
+}
+
+a{
+	color: #FFFFFF;
+	text-decoration: none;
+	
+}
+a:hover{
+	color: #000000;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
